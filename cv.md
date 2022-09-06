@@ -30,9 +30,6 @@ I am design engineer at private company "Alika"....
 **Multiply KATA from CODEWARS:**
 *This code does not execute properly. Try to figure out why.*
 ```
-let a, b;
-a=2;
-b=3;
 function multiply(a, b){
  return a * b
 }
@@ -61,4 +58,4 @@ function multiply(a, b){
 ### Languages
 * Russian - native
 * Belorusian - native
-* English Intermidiate (B1)
+* English Intermidiate (B2)
